@@ -41,7 +41,7 @@ La visualización permite observar el pivote y los elementos que se están compa
 Archivo:
 
 ```text
-AlgoritmoOrdenamientoBurbuja.py
+AlgoritmoOrdenamientoQuickSort.py
 ```
 
 ## ✨ Características
