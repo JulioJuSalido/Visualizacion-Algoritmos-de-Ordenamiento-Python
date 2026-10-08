@@ -18,6 +18,7 @@ Archivo:
 AlgoritmoOrdenamientoMergeSort.py
 ```
 Imagen:
+
 <img width="575" height="577" alt="image" src="https://github.com/user-attachments/assets/a4a1ef7e-9721-407f-99c8-4acc26a88a64" />
 
 ### Bubble Sort
@@ -32,6 +33,7 @@ Archivo:
 AlgoritmoOrdenamientoBurbuja.py
 ```
 Imagen:
+
 <img width="342" height="477" alt="image" src="https://github.com/user-attachments/assets/0d235adb-35ce-4985-b309-a035dc4bb647" />
 
 ### Quick Sort
@@ -46,6 +48,7 @@ Archivo:
 AlgoritmoOrdenamientoQuickSort.py
 ```
 Imagen:
+
 <img width="1132" height="610" alt="image" src="https://github.com/user-attachments/assets/58575964-73df-421f-9923-0546c9975cc2" />
 
 ## Tecnologías utilizadas
