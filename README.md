@@ -64,3 +64,4 @@ Durante la ejecución se utilizan diferentes caracteres para identificar los ele
 ```
 La representación puede variar ligeramente entre los diferentes algoritmos.
 
+### NOTA: Es importante que al momento de ejecutar el programa en la terminal esta misma no tenga zoom + para que se pueda visualizar correctamente.
