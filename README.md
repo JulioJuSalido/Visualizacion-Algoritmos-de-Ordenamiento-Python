@@ -62,15 +62,5 @@ Durante la ejecución se utilizan diferentes caracteres para identificar los ele
 ▓  Elemento seleccionado o pivote
 ▒  Elemento en comparación
 ```
-
 La representación puede variar ligeramente entre los diferentes algoritmos.
 
-## 🧠 Algoritmos
-
-| Algoritmo   | Método principal          | Complejidad promedio |
-| ----------- | ------------------------- | -------------------- |
-| Merge Sort  | Divide y combina          | O(n log n)           |
-| Bubble Sort | Comparación e intercambio | O(n²)                |
-| Quick Sort  | Pivote y particiones      | O(n log n)           |
-
-**Julio César Ju Salido**
