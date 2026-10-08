@@ -1,14 +1,12 @@
-# 📊 Visualización de Algoritmos de Ordenamiento
+# Visualización de Algoritmos de Ordenamiento
 
-Colección de programas desarrollados en Python que muestran de manera visual el funcionamiento de diferentes **algoritmos de ordenamiento** directamente desde la terminal.
+Este repositorio cuenta con tres archivos .py donde se representa visualmente utilizando terminal algunos de los algoritmos de ordenamiento existentes
 
-Los programas utilizan caracteres ASCII y códigos ANSI para representar los valores como columnas y mostrar los cambios que ocurren durante el proceso de ordenamiento.
-
-## 📋 Algoritmos incluidos
+## Algoritmos incluidos
 
 Actualmente el repositorio contiene tres implementaciones:
 
-### 🔵 Merge Sort
+### Merge Sort
 
 Implementación del algoritmo **Merge Sort**, utilizando recursividad para dividir la lista en partes más pequeñas y posteriormente unirlas de forma ordenada.
 
@@ -20,7 +18,7 @@ Archivo:
 AlgoritmoOrdenamientoMergeSort.py
 ```
 
-### 🟢 Bubble Sort
+### Bubble Sort
 
 Implementación del algoritmo **Bubble Sort**.
 
@@ -32,7 +30,7 @@ Archivo:
 AlgoritmoOrdenamientoBurbuja.py
 ```
 
-### 🟠 Quick Sort
+### Quick Sort
 
 Implementación del algoritmo **Quick Sort**, utilizando un pivote para dividir la lista y ordenar sus elementos mediante recursividad.
 
@@ -44,17 +42,7 @@ Archivo:
 AlgoritmoOrdenamientoQuickSort.py
 ```
 
-## ✨ Características
-
-* 📊 Visualización de los algoritmos mediante columnas.
-* 🖥️ Ejecución directamente desde la terminal.
-* 🎨 Uso de caracteres ASCII para representar los valores.
-* 🔄 Animación de los cambios durante el ordenamiento.
-* 🎲 Generación de listas con valores aleatorios.
-* 🧠 Implementación de algoritmos de ordenamiento desde cero.
-* ⏱️ Pausas entre operaciones para facilitar la visualización.
-
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 * **Python 3**
 * `sys` para controlar la salida de la terminal.
@@ -63,7 +51,7 @@ AlgoritmoOrdenamientoQuickSort.py
 * Códigos **ANSI** para posicionar elementos en la terminal.
 * Caracteres ASCII para representar las columnas.
 
-## 📊 Representación visual
+## Representación visual
 
 Los valores de las listas se representan mediante columnas.
 
